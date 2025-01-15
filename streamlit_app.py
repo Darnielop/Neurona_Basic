@@ -5,7 +5,7 @@ import pandas as pd
 import json
 import numpy as np
 
-st.image("img/neurona.png", width=250)
+#st.image("img/neurona.png", width=250)
 st.title("¡Hola Neurona!")
 tab1, tab2, tab3 = st.tabs(["Una entrada", "Dos entradas", "Tres entradas y sesgo"])
 salida = 0
